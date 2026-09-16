@@ -1,2 +1,3 @@
-# github-learning
-My first GitHub repository while learning Git and GitHub.
+# My GitHub Learning Journey
+
+I am learning Git and GitHub as part of my journey into Data Analytics and Data Science.
